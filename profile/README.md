@@ -45,7 +45,10 @@ then transitions the UI through **9 solar phases** — from dawn through midnigh
 bun add @qodin-co/sol
 # or
 npm install @qodin-co/sol
+
 → Explore Sol
+
+
 🔗 What We're Building
 Type
 Description
