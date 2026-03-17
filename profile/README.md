@@ -45,15 +45,24 @@ then transitions the UI through **9 solar phases** — from dawn through midnigh
 bun add @qodin-co/sol
 # or
 npm install @qodin-co/sol
+```
 
-→ Explore Sol
+→ [Explore Sol](https://github.com/qodin-co/sol)
 
+---
 
-🔗 What We're Building
-Type
-Description
-Synced
-A suite of apps sharing one Qodin account — create once, access everywhere
-Standalone
-Independent packages and apps that run in any stack
+## 🔗 What We're Building
+
+| Type | Description |
+|---|---|
+| **Synced** | A suite of apps sharing one Qodin account — create once, access everywhere |
+| **Standalone** | Independent packages and apps that run in any stack |
+
 More tools are in active development across both tracks.
+
+---
+
+
+<div align="center">
+  <sub>Built in Denmark 🇩🇰 · MIT © <a href="https://github.com/qodin-co">qodin</a></sub>
+</div>
