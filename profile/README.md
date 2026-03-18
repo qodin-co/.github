@@ -5,7 +5,7 @@
 <br />
 <br />
 
-**qodin** is a studio building tools that share a single account, and packages that stand alone.
+**qodin** is a studio building tool that share a single account, and packages that stand alone.
 
 <br />
 
